@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "雪の音 - Sound of Snow",
+  "base_artist": "Novelbright",
+  "createdAt": "2026-03-20T16:28:27.971358Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雪の音",
+      "artist": "Alice",
+      "has_synced": false,
+      "path": "select/01_雪の音_Alice.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雪の音",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/02_雪の音_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "雪の音",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/03_雪の音_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雪の音",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/04_雪の音_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "雪の音",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/05_雪の音_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "雪の音 - Sound of Snow",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/06_雪の音_-_Sound_of_Snow_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Novelbright - 雪の音 [Official Music Video]",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/07_Novelbright_-_雪の音_[Official_Music_Video]_Novelbright.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雪の音",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_雪の音_Novelbright.txt"
+    }
+  ]
+}
